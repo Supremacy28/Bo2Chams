@@ -42,5 +42,9 @@ Globals.cpp :
 ```cpp
 BOOL MenuOptions::bDrawChams = FALSE;
 ```
+
+![image](https://github.com/user-attachments/assets/15e851e0-5da7-4324-b119-2d90f40f0269)
+
+
  Based off of Sunset / Darling v1.1, Credits to them for the menu
 
